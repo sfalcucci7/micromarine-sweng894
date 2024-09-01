@@ -6,13 +6,9 @@ import javafx.geometry.Insets;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-
 import java.io.IOException;
 
-// import javax.swing.Action;
-// import org.w3c.dom.events.Event;
-
-//new
+//updated import
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.Button;
@@ -98,4 +94,4 @@ public class App extends Application implements EventHandler<ActionEvent>{
 //     }
 
 // }
-//kj;likjl
+
