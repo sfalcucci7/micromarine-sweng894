@@ -50,7 +50,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class DemoApplication {
+public class SQLConnection {
     // Connect to your database.
     // Replace server name, username, and password with your credentials
     public static void main(String[] args) {
