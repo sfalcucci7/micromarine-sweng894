@@ -26,7 +26,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.*;
 
- public class MicroMarineApp extends Application {
+ public class DemoApp extends Application {
 
         Stage window;
 
